@@ -1,2 +1,6 @@
 # demo-git
-tutorial for github.
+tutorial thub.for gi
+# teacher
+sharad
+# student 
+maa
