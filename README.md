@@ -1,2 +1,2 @@
 # demo-git
-tutorial for github
+tutorial for github.
